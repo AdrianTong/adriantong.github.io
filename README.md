@@ -1,8 +1,8 @@
 ### About Me
 
--Adrian Tong
--Princeton University, Rising Junior (Class of 2020), Computer Science
--Raised in San Diego, currently live in Seattle, NYC for the summer
+- Adrian Tong
+- Princeton University, Rising Junior (Class of 2020), Computer Science
+- Raised in San Diego, currently live in Seattle, NYC for the summer
 
 ### Personal Projects
 
