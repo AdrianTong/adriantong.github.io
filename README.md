@@ -6,11 +6,11 @@
 
 ### Personal Projects
 
-[Link](https://classmaps.herokuapp.com/about/)
+[ClassMaps](https://classmaps.herokuapp.com/about/) Map for Princeton classes and resources on campus
 
 ### Learn more
 
-[Link](https://www.linkedin.com/in/adrian-tong/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-tong/)
 
 ```markdown
 Syntax highlighted code block
