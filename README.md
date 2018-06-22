@@ -6,7 +6,7 @@
 
 ### Personal Projects
 
-[ClassMaps](https://classmaps.herokuapp.com/about/) Map for Princeton classes and resources on campus
+[ClassMaps](https://classmaps.herokuapp.com/about/): Map for Princeton classes and resources on campus
 
 ### Learn more
 
