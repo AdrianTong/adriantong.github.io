@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 title: Adrian's Website
-logo: ![Image](/prof.jpg)
+logo: "prof.jpg"
