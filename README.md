@@ -1,17 +1,19 @@
-## About Me
+### About Me
 
-Adrian Tong, Rising Junior, Computer Science, Princeton University
+-Adrian Tong
+-Princeton University, Rising Junior (Class of 2020), Computer Science
+-Raised in San Diego, currently live in Seattle, NYC for the summer
 
-### Markdown
+### Personal Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link](https://classmaps.herokuapp.com/about/)
+
+### Learn more
+
+[Link](https://www.linkedin.com/in/adrian-tong/)
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
